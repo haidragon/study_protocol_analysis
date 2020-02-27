@@ -6,7 +6,7 @@ Protocol analysis
 * http原理
 * tls(https)
 * Go 语言搭建web服务器
-* wireshark抓包
+* 常用抓包工具使用
 * tls深入学习
 * 如何从流量中提取证书（go语言实现）
 ## android篇
@@ -14,7 +14,6 @@ Protocol analysis
 * OKhttp框架
 * java jdk 源码分析（网络部分）
 * java jdk 源码分析（算法部分）
-* 常用抓包工具使用（Charles BrupSuite Fiddler)
 * hook 原理(frida 使用）
 * Java 层协议分析
 * so 层协议算法分析
