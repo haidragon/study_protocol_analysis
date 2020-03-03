@@ -4,6 +4,7 @@ Protocol analysis
 ## 基础篇
 * [socket原理](https://github.com/haidragon/study_firewall)
 * http原理
+* openssl编译与使用
 * tls(https)原理
 * Go 语言搭建web服务器
 * 常用抓包工具使用
