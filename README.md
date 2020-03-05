@@ -22,8 +22,8 @@ Protocol analysis
 * bypass 单向证书验证
 * bypass 双向证书验证
 * 如何分析so中的被混淆算法
-* android 源码编译
-* 如何基于修改源码脱壳
+* [android 源码编译](https://github.com/haidragon/study_Android_Mchange)
+* [如何基于修改源码脱壳](https://github.com/haidragon/study_Android_Mchange)
 * 动态调试
 * bypass antidebug
 ## ios篇
