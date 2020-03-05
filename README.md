@@ -15,7 +15,7 @@ Protocol analysis
 * OKhttp框架
 * java jdk 源码分析（网络部分）
 * java jdk 源码分析（算法部分）
-* hook 原理(frida 使用）
+* [hook 原理(frida 使用)](https://github.com/haidragon/study_frida)
 * Java 层协议分析
 * so 层协议算法分析
 * view原理（如何定位UI控件)
@@ -32,11 +32,11 @@ Protocol analysis
 * view原理（如何定位UI控件)
 * ios 原生算法库分析
 * 协议分析
-* hook 原理(frida 使用）
+* [hook 原理(frida 使用)](https://github.com/haidragon/study_frida)
 * Thoes 使用（hook）
 * bypass 单向证书验证
 * bypass 双向证书验证
-* 动态调试(lldb 简单使用)
+* [动态调试(lldb 简单使用)](https://github.com/haidragon/study_tools)
 * bypass antidebug
 
 
