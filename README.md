@@ -24,7 +24,7 @@ Protocol analysis
 * 如何分析so中的被混淆算法
 * [android 源码编译](https://github.com/haidragon/study_Android_Mchange)
 * [如何基于修改源码脱壳](https://github.com/haidragon/study_Android_Mchange)
-* 动态调试
+* [动态调试](https://github.com/haidragon/study_Android_Mchange)
 * bypass antidebug
 ## ios篇
 * app 砸壳
