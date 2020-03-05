@@ -1,6 +1,6 @@
 # http原理
-![](./1.png)
-![](./2.png)
+![](./images/1.png)
+![](./images/2.png)
 
 
 
