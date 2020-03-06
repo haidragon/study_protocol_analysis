@@ -5,7 +5,7 @@ Protocol analysis
 * [socket原理](https://github.com/haidragon/study_firewall)
 * [http原理](https://github.com/haidragon/study_protocol_analysis/blob/master/study_protocol_analysis/page2/page.md)
 * [openssl编译与使用](https://github.com/haidragon/study_protocol_analysis/blob/master/study_protocol_analysis/page3/page.md)
-* https客户端实现(未带证书请求baidu)
+* https客户端实现(请求baidu)
 * https服务器实现(带证书)
 * 模拟https握手(ssl/tls)
 * 模拟https双向证书验证
