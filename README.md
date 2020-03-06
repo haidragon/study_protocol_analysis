@@ -12,7 +12,7 @@ Protocol analysis
 * https增加CA验证
 * Go语言搭建web服务器
 * [常用抓包工具使用](https://github.com/haidragon/study_tools)
-* 如何从流量中提取证书（go语言实现）
+* 如何从流量中提取证书(go语言实现）
 ## android篇
 * android中协议基础
 * OKhttp框架
