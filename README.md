@@ -5,10 +5,13 @@ Protocol analysis
 * [socket原理](https://github.com/haidragon/study_firewall)
 * [http原理](https://github.com/haidragon/study_protocol_analysis/blob/master/study_protocol_analysis/page2/page.md)
 * [openssl编译与使用](https://github.com/haidragon/study_protocol_analysis/blob/master/study_protocol_analysis/page3/page.md)
-* tls(https)原理
-* Go 语言搭建web服务器
+* https客户端实现(未带证书请求baidu)
+* https服务器实现(带证书)
+* 模拟https握手(ssl/tls)
+* 模拟https双向证书验证
+* https增加CA验证
+* Go语言搭建web服务器
 * [常用抓包工具使用](https://github.com/haidragon/study_tools)
-* tls深入学习
 * 如何从流量中提取证书（go语言实现）
 ## android篇
 * android中协议基础
