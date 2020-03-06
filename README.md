@@ -7,7 +7,7 @@ Protocol analysis
 * [openssl编译与使用](https://github.com/haidragon/study_protocol_analysis/blob/master/study_protocol_analysis/page3/page.md)
 * [https客户端实现(请求baidu)](https://github.com/haidragon/study_protocol_analysis/blob/master/study_protocol_analysis/page4/page.md)
 * [https服务器实现(带证书)](https://github.com/haidragon/study_protocol_analysis/blob/master/study_protocol_analysis/page5/page.md)
-* [模拟https握手(ssl/tls)](https://github.com/haidragon/study_protocol_analysis/blob/master/study_protocol_analysis/page6/page.md)
+* [模拟https握手(ssl/tls)](https://github.com/haidragon/study_protocol_analysis/blob/master/study_protocol_analysis/page3/page.md)
 * [模拟https双向证书验证](https://github.com/haidragon/study_protocol_analysis/blob/master/study_protocol_analysis/page7/page.md)
 * [https增加CA验证](https://github.com/haidragon/study_protocol_analysis/blob/master/study_protocol_analysis/page8/page.md)
 * [Go语言搭建web服务器](https://github.com/haidragon/study_protocol_analysis/blob/master/study_protocol_analysis/page9/page.md)
