@@ -16,11 +16,11 @@ Protocol analysis
 ## android篇
 * [android中协议基础](https://github.com/haidragon/study_protocol_analysis/blob/master/study_protocol_analysis/page11/page.md)
 * [OKhttp框架](https://github.com/haidragon/study_protocol_analysis/blob/master/study_protocol_analysis/page12/page.md)
-* [java jdk源码分析(网络部分)](https://github.com/haidragon/study_protocol_analysis/blob/master/study_protocol_analysis/page13/page.md)
-* [java jdk源码分析(算法部分)](https://github.com/haidragon/study_protocol_analysis/blob/master/study_protocol_analysis/page14/page.md)
 * [hook 原理(frida 使用)](https://github.com/haidragon/study_frida)
-* Java 层协议分析
-* so 层协议算法分析
+* [原生socket hook](https://github.com/haidragon/study_frida)
+* [原生算法 hook](https://github.com/haidragon/study_frida)
+* [Java 层协议分析](https://github.com/haidragon/study_frida)
+* [so 层协议算法分析](https://github.com/haidragon/study_frida)
 * view原理（如何定位UI控件)
 * bypass 单向证书验证
 * bypass 双向证书验证
