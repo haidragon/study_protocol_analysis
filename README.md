@@ -22,9 +22,9 @@ Protocol analysis
 * [Java 层协议分析](https://github.com/haidragon/study_frida)
 * [so 层协议算法分析](https://github.com/haidragon/study_frida)
 * [view原理](https://github.com/microsoft/ApplicationInspector)[(如何定位UI控件)](https://github.com/macacajs/app-inspector)
-* bypass 单向证书验证
-* bypass 双向证书验证
-* 如何分析so中的被混淆算法
+* [bypass 单向证书验证](https://github.com/haidragon/study_protocol_analysis/blob/master/study_protocol_analysis/page9/page.md)
+* [bypass 双向证书验证](https://github.com/haidragon/study_protocol_analysis/blob/master/study_protocol_analysis/page9/page.md)
+* [如何分析so中的被混淆算法](https://github.com/haidragon/study_protocol_analysis/blob/master/study_protocol_analysis/page9/page.md)
 * [android 源码编译](https://github.com/haidragon/study_Android_Mchange)
 * [如何基于修改源码脱壳](https://github.com/haidragon/study_Android_Mchange)
 * [动态调试](https://github.com/haidragon/study_Android_Mchange)
