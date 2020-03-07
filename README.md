@@ -21,7 +21,7 @@ Protocol analysis
 * [原生算法 hook](https://github.com/haidragon/study_frida)
 * [Java 层协议分析](https://github.com/haidragon/study_frida)
 * [so 层协议算法分析](https://github.com/haidragon/study_frida)
-* view原理（如何定位UI控件)
+* [view原理](https://github.com/microsoft/ApplicationInspector)[(如何定位UI控件)](https://github.com/macacajs/app-inspector)
 * bypass 单向证书验证
 * bypass 双向证书验证
 * 如何分析so中的被混淆算法
