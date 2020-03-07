@@ -12,7 +12,7 @@ Protocol analysis
 * [https增加CA验证](https://github.com/haidragon/study_protocol_analysis/blob/master/study_protocol_analysis/page7/page.md)
 * [Go语言搭建web服务器](https://github.com/haidragon/study_protocol_analysis/blob/master/study_protocol_analysis/page9/page.md)
 * [常用抓包工具使用](https://github.com/haidragon/study_tools)
-* [如何从流量中提取证书(go语言实现)](https://github.com/haidragon/study_protocol_analysis/blob/master/study_protocol_analysis/page10/page.md)
+* [如何从流量中提取证书(go语言实现)](https://github.com/haidragon/pcap_Banalysis)
 ## android篇
 * [android中协议基础](https://github.com/haidragon/study_protocol_analysis/blob/master/study_protocol_analysis/page11/page.md)
 * [OKhttp框架](https://github.com/haidragon/study_protocol_analysis/blob/master/study_protocol_analysis/page12/page.md)
