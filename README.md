@@ -37,7 +37,7 @@ Protocol analysis
 * ios 原生算法库分析
 * 协议分析
 * [hook 原理(frida 使用)](https://github.com/haidragon/study_frida)
-* [Thoes 使用（hook)](https://github.com/haidragon/study_reverse_analysis)
+* [tweak编写（hook)](https://github.com/haidragon/study_tweak)
 * bypass 单向证书验证
 * bypass 双向证书验证
 * [动态调试(lldb 简单使用)](https://github.com/haidragon/study_tools)
