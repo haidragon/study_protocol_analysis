@@ -1,5 +1,6 @@
-# 如何从流量中提取证书(go语言实现)
-
+# 如何从流量中提取证书 
+![](images/1.png)
+![](images/2.png)
 # 视频持续更新.......  
 # 其它教程
 * [study_frida](https://github.com/haidragon/study_frida)
