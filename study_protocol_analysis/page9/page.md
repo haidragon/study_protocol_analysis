@@ -1,4 +1,4 @@
-# Go语言搭建web服务器
+# 查看完整资料请加入星球
 # 视频持续更新.......  
 # 其它教程
 * [study_frida](https://github.com/haidragon/study_frida)
